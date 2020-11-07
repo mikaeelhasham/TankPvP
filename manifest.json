@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "A PvP texture pack. Discord: discord.gg/Ek3YyKGa",
+        "name": "Tank PvP",
+        "uuid": "58257838-1bba-11eb-adc1-0242ac120002",
+        "version": [1, 0, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "A PvP texture pack. Discord: discord.gg/Ek3YyKGa",
+            "type": "resources",
+            "uuid": "58257bf8-1bba-11eb-adc1-0242ac120002",
+            "version": [1, 0, 0]
+        }
+    ]
+}
